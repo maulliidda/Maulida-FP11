@@ -46,6 +46,9 @@
                 <mxCell id="13" value="p=10.000" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
                     <mxGeometry x="260" y="380" width="120" height="50" as="geometry"/>
                 </mxCell>
+                <mxCell id="21" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="15" target="20">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
                 <mxCell id="15" value="output &quot;Ambil minuman anda&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" parent="1" vertex="1">
                     <mxGeometry x="226.25" y="460" width="187.5" height="60" as="geometry"/>
                 </mxCell>
@@ -64,6 +67,9 @@
                 </mxCell>
                 <mxCell id="19" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
                     <mxGeometry x="330" y="430" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="end" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="285" y="550" width="70" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
